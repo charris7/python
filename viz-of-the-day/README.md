@@ -1,0 +1,1 @@
+https://notnullisland.com/sending-data-driven-slack-messages-with-tableaus-viz-of-the-day/
